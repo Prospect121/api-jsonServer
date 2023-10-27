@@ -3,15 +3,15 @@
     "documentType": [
           {
             "id": 3,
-            "nombre": "Licencia de conducir"
+            "name": "Licencia de conducir"
           },
           {
             "id": 4,
-            "nombre": "Cédula de identidad"
+            "name": "Cédula de identidad"
           },
           {
             "id": 5,
-            "nombre": "Tarjeta de identidad"
+            "name": "Tarjeta de identidad"
           }
     ],
     "internationalShippingType": [
