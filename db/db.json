@@ -1,0 +1,200 @@
+{
+  "sale": [
+  ],
+  "documentType": [
+    {
+      "id": 3,
+      "name": "Licencia de conducir"
+    },
+    {
+      "id": 4,
+      "name": "Cédula de identidad"
+    },
+    {
+      "id": 5,
+      "name": "Tarjeta de identidad"
+    }
+  ],
+  "internationalShippingType": [
+    {
+      "id": 1,
+      "name": "Envío estándar"
+    },
+    {
+      "id": 2,
+      "name": "Envío express"
+    },
+    {
+      "id": 3,
+      "name": "Envío aéreo"
+    },
+    {
+      "id": 4,
+      "name": "Envío marítimo"
+    },
+    {
+      "id": 5,
+      "name": "Envío prioritario"
+    }
+  ],
+  "operator": [
+    {
+      "id": 1,
+      "name": "Juan Pérez"
+    },
+    {
+      "id": 2,
+      "name": "María Rodríguez"
+    },
+    {
+      "id": 3,
+      "name": "Carlos López"
+    },
+    {
+      "id": 4,
+      "name": "Ana Martínez"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Sánchez"
+    },
+    {
+      "id": 6,
+      "name": "Laura González"
+    },
+    {
+      "id": 7,
+      "name": "Luis Torres"
+    },
+    {
+      "id": 8,
+      "name": "Sofía Ramírez"
+    },
+    {
+      "id": 9,
+      "name": "Javier García"
+    },
+    {
+      "id": 10,
+      "name": "Elena Fernández"
+    }
+  ],
+  "paymentMethod": [
+    {
+      "id": 1,
+      "name": "Tarjeta de crédito"
+    },
+    {
+      "id": 2,
+      "name": "PayPal"
+    },
+    {
+      "id": 3,
+      "name": "Transferencia bancaria"
+    },
+    {
+      "id": 4,
+      "name": "Bitcoin"
+    },
+    {
+      "id": 5,
+      "name": "Efectivo"
+    },
+    {
+      "id": 6,
+      "name": "Cheque"
+    },
+    {
+      "id": 7,
+      "name": "Apple Pay"
+    },
+    {
+      "id": 8,
+      "name": "Google Pay"
+    }
+  ],
+  "transferType": [
+    {
+      "id": 1,
+      "name": "Transferencia bancaria nacional"
+    },
+    {
+      "id": 2,
+      "name": "Transferencia bancaria internacional"
+    },
+    {
+      "id": 3,
+      "name": "Transferencia electrónica"
+    },
+    {
+      "id": 4,
+      "name": "Transferencia de fondos"
+    },
+    {
+      "id": 5,
+      "name": "Transferencia entre cuentas"
+    },
+    {
+      "id": 6,
+      "name": "Transferencia ACH"
+    },
+    {
+      "id": 7,
+      "name": "Transferencia SEPA"
+    },
+    {
+      "id": 8,
+      "name": "Transferencia SWIFT"
+    },
+    {
+      "id": 9,
+      "name": "Transferencia de dinero en efectivo"
+    },
+    {
+      "id": 10,
+      "name": "Transferencia P2P"
+    }
+  ],
+  "commercialMakeSale": [
+    {
+      "id": 1,
+      "name": "Bogotá"
+    },
+    {
+      "id": 2,
+      "name": "Medellín"
+    },
+    {
+      "id": 3,
+      "name": "Cali"
+    },
+    {
+      "id": 4,
+      "name": "Barranquilla"
+    },
+    {
+      "id": 5,
+      "name": "Cartagena"
+    },
+    {
+      "id": 6,
+      "name": "Bucaramanga"
+    },
+    {
+      "id": 7,
+      "name": "Pereira"
+    },
+    {
+      "id": 8,
+      "name": "Manizales"
+    },
+    {
+      "id": 9,
+      "name": "Santa Marta"
+    },
+    {
+      "id": 10,
+      "name": "Villavicencio"
+    }
+  ]
+}
