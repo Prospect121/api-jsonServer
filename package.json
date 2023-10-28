@@ -2,23 +2,24 @@
   "name": "api-jsonserver",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Prospect121/api-jsonServer.git"
   },
-  "keywords": [],
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Prospect121/api-jsonServer/issues"
   },
   "homepage": "https://github.com/Prospect121/api-jsonServer#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.17.4"
   }
 }
